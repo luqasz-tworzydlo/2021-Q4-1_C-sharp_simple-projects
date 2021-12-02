@@ -1,0 +1,14 @@
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\bin\Debug\netcoreapp3.1\our_lucky_numbers.exe
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\bin\Debug\netcoreapp3.1\our_lucky_numbers.deps.json
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\bin\Debug\netcoreapp3.1\our_lucky_numbers.runtimeconfig.json
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\bin\Debug\netcoreapp3.1\our_lucky_numbers.runtimeconfig.dev.json
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\bin\Debug\netcoreapp3.1\our_lucky_numbers.dll
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\bin\Debug\netcoreapp3.1\our_lucky_numbers.pdb
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\obj\Debug\netcoreapp3.1\our_lucky_numbers.csproj.AssemblyReference.cache
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\obj\Debug\netcoreapp3.1\our_lucky_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\obj\Debug\netcoreapp3.1\our_lucky_numbers.AssemblyInfoInputs.cache
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\obj\Debug\netcoreapp3.1\our_lucky_numbers.AssemblyInfo.cs
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\obj\Debug\netcoreapp3.1\our_lucky_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\obj\Debug\netcoreapp3.1\our_lucky_numbers.dll
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\obj\Debug\netcoreapp3.1\our_lucky_numbers.pdb
+C:\Users\Łukasz Tworzydło\source\repos\our_lucky_numbers\our_lucky_numbers\obj\Debug\netcoreapp3.1\our_lucky_numbers.genruntimeconfig.cache
