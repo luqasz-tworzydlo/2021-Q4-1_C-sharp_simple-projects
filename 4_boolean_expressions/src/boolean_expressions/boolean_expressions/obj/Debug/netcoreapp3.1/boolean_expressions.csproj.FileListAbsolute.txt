@@ -1,0 +1,14 @@
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\bin\Debug\netcoreapp3.1\boolean_expressions.exe
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\bin\Debug\netcoreapp3.1\boolean_expressions.deps.json
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\bin\Debug\netcoreapp3.1\boolean_expressions.runtimeconfig.json
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\bin\Debug\netcoreapp3.1\boolean_expressions.runtimeconfig.dev.json
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\bin\Debug\netcoreapp3.1\boolean_expressions.dll
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\bin\Debug\netcoreapp3.1\boolean_expressions.pdb
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\obj\Debug\netcoreapp3.1\boolean_expressions.csproj.AssemblyReference.cache
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\obj\Debug\netcoreapp3.1\boolean_expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\obj\Debug\netcoreapp3.1\boolean_expressions.AssemblyInfoInputs.cache
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\obj\Debug\netcoreapp3.1\boolean_expressions.AssemblyInfo.cs
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\obj\Debug\netcoreapp3.1\boolean_expressions.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\obj\Debug\netcoreapp3.1\boolean_expressions.dll
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\obj\Debug\netcoreapp3.1\boolean_expressions.pdb
+C:\Users\Łukasz Tworzydło\source\repos\boolean_expressions\boolean_expressions\obj\Debug\netcoreapp3.1\boolean_expressions.genruntimeconfig.cache
