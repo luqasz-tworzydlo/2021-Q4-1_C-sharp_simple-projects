@@ -1,0 +1,14 @@
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\bin\Debug\netcoreapp3.1\if_else_do_while_for_PP.exe
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\bin\Debug\netcoreapp3.1\if_else_do_while_for_PP.deps.json
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\bin\Debug\netcoreapp3.1\if_else_do_while_for_PP.runtimeconfig.json
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\bin\Debug\netcoreapp3.1\if_else_do_while_for_PP.runtimeconfig.dev.json
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\bin\Debug\netcoreapp3.1\if_else_do_while_for_PP.dll
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\bin\Debug\netcoreapp3.1\if_else_do_while_for_PP.pdb
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\obj\Debug\netcoreapp3.1\if_else_do_while_for_PP.csproj.AssemblyReference.cache
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\obj\Debug\netcoreapp3.1\if_else_do_while_for_PP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\obj\Debug\netcoreapp3.1\if_else_do_while_for_PP.AssemblyInfoInputs.cache
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\obj\Debug\netcoreapp3.1\if_else_do_while_for_PP.AssemblyInfo.cs
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\obj\Debug\netcoreapp3.1\if_else_do_while_for_PP.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\obj\Debug\netcoreapp3.1\if_else_do_while_for_PP.dll
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\obj\Debug\netcoreapp3.1\if_else_do_while_for_PP.pdb
+C:\Users\Łukasz Tworzydło\source\repos\if_else_do_while_for_PP\if_else_do_while_for_PP\obj\Debug\netcoreapp3.1\if_else_do_while_for_PP.genruntimeconfig.cache
