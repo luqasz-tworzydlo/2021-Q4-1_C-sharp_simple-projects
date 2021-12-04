@@ -1,0 +1,14 @@
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\bin\Debug\netcoreapp3.1\c_sharp_operations.exe
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\bin\Debug\netcoreapp3.1\c_sharp_operations.deps.json
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\bin\Debug\netcoreapp3.1\c_sharp_operations.runtimeconfig.json
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\bin\Debug\netcoreapp3.1\c_sharp_operations.runtimeconfig.dev.json
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\bin\Debug\netcoreapp3.1\c_sharp_operations.dll
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\bin\Debug\netcoreapp3.1\c_sharp_operations.pdb
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\obj\Debug\netcoreapp3.1\c_sharp_operations.csproj.AssemblyReference.cache
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\obj\Debug\netcoreapp3.1\c_sharp_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\obj\Debug\netcoreapp3.1\c_sharp_operations.AssemblyInfoInputs.cache
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\obj\Debug\netcoreapp3.1\c_sharp_operations.AssemblyInfo.cs
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\obj\Debug\netcoreapp3.1\c_sharp_operations.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\obj\Debug\netcoreapp3.1\c_sharp_operations.dll
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\obj\Debug\netcoreapp3.1\c_sharp_operations.pdb
+C:\Users\Łukasz Tworzydło\source\repos\c_sharp_operations\c_sharp_operations\obj\Debug\netcoreapp3.1\c_sharp_operations.genruntimeconfig.cache
