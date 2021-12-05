@@ -1,0 +1,14 @@
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\bin\Debug\netcoreapp3.1\adv_arrays_projects.exe
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\bin\Debug\netcoreapp3.1\adv_arrays_projects.deps.json
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\bin\Debug\netcoreapp3.1\adv_arrays_projects.runtimeconfig.json
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\bin\Debug\netcoreapp3.1\adv_arrays_projects.runtimeconfig.dev.json
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\bin\Debug\netcoreapp3.1\adv_arrays_projects.dll
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\bin\Debug\netcoreapp3.1\adv_arrays_projects.pdb
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\obj\Debug\netcoreapp3.1\adv_arrays_projects.csproj.AssemblyReference.cache
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\obj\Debug\netcoreapp3.1\adv_arrays_projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\obj\Debug\netcoreapp3.1\adv_arrays_projects.AssemblyInfoInputs.cache
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\obj\Debug\netcoreapp3.1\adv_arrays_projects.AssemblyInfo.cs
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\obj\Debug\netcoreapp3.1\adv_arrays_projects.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\obj\Debug\netcoreapp3.1\adv_arrays_projects.dll
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\obj\Debug\netcoreapp3.1\adv_arrays_projects.pdb
+C:\Users\Łukasz Tworzydło\source\repos\adv_arrays_projects\adv_arrays_projects\obj\Debug\netcoreapp3.1\adv_arrays_projects.genruntimeconfig.cache
