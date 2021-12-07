@@ -9,6 +9,10 @@ namespace adv_arrays_projects
         static void Main(string[] args)
         {
             Console.WriteLine("Let's do something! :>");
+            
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
 
             byte komenda1;
             do
@@ -45,7 +49,9 @@ namespace adv_arrays_projects
                 komenda1 = Convert.ToByte(Console.ReadLine());
             } while (komenda1 == 1 || komenda1 == 2 || komenda1 == 3 || komenda1 == 4 || komenda1 == 5 || komenda1 == 6 || komenda1 == 7 || komenda1 == 8 || komenda1 == 9);
             
-
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
 
             Console.WriteLine(
                 $"\n\n\n[2] Niniejszy program będzie kopiować liczby całkowite" +
@@ -86,7 +92,9 @@ namespace adv_arrays_projects
                 }
             }
 
-
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
 
             Console.WriteLine(
                 $"\n\n\n[3] Niniejszy program wyświetli informacje" +
@@ -156,7 +164,9 @@ namespace adv_arrays_projects
                 }
             }
             
-
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
 
             Console.WriteLine(
                 $"\n\n\n[4.1] Niniejszy program generuje i wyświetla" +
@@ -168,7 +178,9 @@ namespace adv_arrays_projects
             for (int i =0; i<100; i++)
                 Console.WriteLine("{0,8}", randA.Next(1, 1000));
 
-
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
 
             Console.WriteLine(
                 $"\n\n\n[4.2] Niniejszy program generuje i wyświetla" +
@@ -180,8 +192,8 @@ namespace adv_arrays_projects
             for (int i = 0; i < 100; i++)
                 Console.WriteLine("{0,8}", randB.Next(-2147483648, 2147483647));
 
-
-
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
             ///////////////////////////////////////////////////////////////////////////////////
             
             Console.WriteLine(
@@ -206,7 +218,7 @@ namespace adv_arrays_projects
             double[] tablica5B;
             tablica5B = new double[tablica5A.Length];
 
-            for (int indeks5B = 0; indeks5B < rozmiar5A-2; indeks5B += 1)
+            for (int indeks5B = 0; indeks5B < rozmiar5A-1; indeks5B += 1)
             {
                 tablica5B[indeks5B] = tablica5A[indeks5B+1];
             }
@@ -224,8 +236,8 @@ namespace adv_arrays_projects
             }
 
             ///////////////////////////////////////////////////////////////////////////////////
-
-
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
 
             Console.WriteLine(
                 $"\n\n\n[6] Niniejszy program deklaruje oraz inicjalizuje" +
@@ -257,7 +269,9 @@ namespace adv_arrays_projects
             Console.WriteLine("Suma wszystkich elementów tablicy dwuwymiarowej: " + sumaElementów(tablica2d));
             Console.WriteLine("Suma wszystkich elementów przekątnej tablicy2d: " + sumaElementówPrzekątna(tablica2d));
 
-
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
 
             Console.WriteLine(
                 $"\n\n\n[7] Niniejszy program deklaruje oraz inicjalizuje" +
@@ -278,7 +292,9 @@ namespace adv_arrays_projects
             // => static int sumaElementów(int[,] tablica2d)
             // => static int sumaElementówPrzekątna(int[,] tablica2d)
 
-
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
 
             Console.WriteLine(
                 $"\n\n\n[8] Niniejszy program dodaje dwie macierze o rozmiarze 2 x 3." +
@@ -334,11 +350,15 @@ namespace adv_arrays_projects
             // drugi alternatywny sposób
             // próbatablica2d5x5(tablica2d2x3CSUMA);
 
-            // poniższy sposób jest alternatywny
-            /*foreach (int kej in tablica2d2x3CSUMA)
-            {
-                Console.WriteLine(" {0}", kej);
-            }*/
+            // trzeci sposób alternatywny
+            //foreach (int kej in tablica2d2x3CSUMA)
+            //{
+            //    Console.WriteLine(" {0}", kej);
+            //}
+
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
 
             Console.WriteLine(
                 $"\n\n\n[9] Niniejszy program wyświetla wybrany dzień tygodnia." +
@@ -446,8 +466,61 @@ namespace adv_arrays_projects
                 komenda7 = Convert.ToByte(Console.ReadLine());
             } while (komenda7 == 1 || komenda7 == 2 || komenda7 == 3);
 
-            Console.WriteLine("");
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
 
+            Console.WriteLine(
+                $"\n\n\n[10] Niniejszy program obliczaja liczbę wyrazów" +
+                $"\nw łańcuchu znaków wprowadzonym przez użytkownika" +
+                $"\n[ przyjmuje się tutaj to, iż wyrazy" +
+                $"\nto ciągi znaków rozdzielone spacją].\n");
+
+            string wyrazyTekstu;
+            Console.WriteLine("Wprowadź dowolny tekst: ");
+            wyrazyTekstu = Console.ReadLine();
+
+            int liczbaWyrazówTekstu = 1;
+            foreach (char wyraz in wyrazyTekstu)
+                if (wyraz == ' ') liczbaWyrazówTekstu++;
+
+            Console.WriteLine("Wprowadzony tekst przez użytkownika zawiera {0} wyrazy/ów", liczbaWyrazówTekstu);
+
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+
+            Console.WriteLine(
+                $"\n\n\n[11] Niniejszy program wyświetla aktualną godzinę.\n");
+            
+            string ahaa;
+            string baha = "n";
+            do
+            {
+                ahaa = DateTime.Now.ToString("h:mm:ss tt");
+                Console.WriteLine(
+                    $"Teraz jest godzina: " + ahaa +
+                    $"\n\nAby zaktualizować godzinę wpisz" +
+                    $"\ndowolną liczbę, cyfrę lub wciśnij enter." +
+                    $"\nAby przerwać wpisz \"n\" i naciśnij enter\n");
+            } while (!(Console.ReadLine() == baha));
+
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+
+            Console.WriteLine(
+                $"\n\n\n[12] Niniejszy program pobiera datę w formacie DD-MM-RRRR," +
+                $"\nz której pobiera miesiąc i wyświetla jego nazwę słownie.\n");
+            
+            DateTime date = DateTime.Today;
+            Console.WriteLine(date.ToString("dd-MM-yyyy"));
+            Console.WriteLine(date.ToString("MMMM"));
+
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////
+            
             Console.ReadKey();
         }
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Łukasz Tworzydło\\Desktop\\Carpe Tonus\\GitHub Repositories\\2021-Q4-1_C-sharp_simple-projects\\8_adv_arrays_projects\\src\\2021-12-06 [2]\\adv_arrays_projects\\adv_arrays_projects\\adv_arrays_projects.csproj",
+      "projectUniqueName": "C:\\Users\\Łukasz Tworzydło\\source\\repos\\adv_arrays_projects\\adv_arrays_projects\\adv_arrays_projects.csproj",
       "projectName": "adv_arrays_projects",
-      "projectPath": "C:\\Users\\Łukasz Tworzydło\\Desktop\\Carpe Tonus\\GitHub Repositories\\2021-Q4-1_C-sharp_simple-projects\\8_adv_arrays_projects\\src\\2021-12-06 [2]\\adv_arrays_projects\\adv_arrays_projects\\adv_arrays_projects.csproj",
+      "projectPath": "C:\\Users\\Łukasz Tworzydło\\source\\repos\\adv_arrays_projects\\adv_arrays_projects\\adv_arrays_projects.csproj",
       "packagesPath": "C:\\Users\\Łukasz Tworzydło\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Łukasz Tworzydło\\Desktop\\Carpe Tonus\\GitHub Repositories\\2021-Q4-1_C-sharp_simple-projects\\8_adv_arrays_projects\\src\\2021-12-06 [2]\\adv_arrays_projects\\adv_arrays_projects\\obj\\",
+      "outputPath": "C:\\Users\\Łukasz Tworzydło\\source\\repos\\adv_arrays_projects\\adv_arrays_projects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Łukasz Tworzydło\\AppData\\Roaming\\NuGet\\NuGet.Config"
