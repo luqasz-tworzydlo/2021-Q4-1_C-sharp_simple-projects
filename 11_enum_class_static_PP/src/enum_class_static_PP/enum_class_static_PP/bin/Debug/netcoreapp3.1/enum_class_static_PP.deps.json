@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "enum_class_static_PP/1.0.0": {
+        "runtime": {
+          "enum_class_static_PP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "enum_class_static_PP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
