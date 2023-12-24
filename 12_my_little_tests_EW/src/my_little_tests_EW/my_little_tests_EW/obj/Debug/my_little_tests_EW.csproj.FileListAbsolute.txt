@@ -1,7 +1,0 @@
-C:\Users\Łukasz Tworzydło\source\repos\my_little_tests_EW\my_little_tests_EW\bin\Debug\my_little_tests_EW.exe.config
-C:\Users\Łukasz Tworzydło\source\repos\my_little_tests_EW\my_little_tests_EW\bin\Debug\my_little_tests_EW.exe
-C:\Users\Łukasz Tworzydło\source\repos\my_little_tests_EW\my_little_tests_EW\bin\Debug\my_little_tests_EW.pdb
-C:\Users\Łukasz Tworzydło\source\repos\my_little_tests_EW\my_little_tests_EW\obj\Debug\my_little_tests_EW.csproj.AssemblyReference.cache
-C:\Users\Łukasz Tworzydło\source\repos\my_little_tests_EW\my_little_tests_EW\obj\Debug\my_little_tests_EW.csproj.CoreCompileInputs.cache
-C:\Users\Łukasz Tworzydło\source\repos\my_little_tests_EW\my_little_tests_EW\obj\Debug\my_little_tests_EW.exe
-C:\Users\Łukasz Tworzydło\source\repos\my_little_tests_EW\my_little_tests_EW\obj\Debug\my_little_tests_EW.pdb
