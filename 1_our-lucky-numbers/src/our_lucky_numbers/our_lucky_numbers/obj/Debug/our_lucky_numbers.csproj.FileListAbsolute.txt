@@ -1,0 +1,7 @@
+C:\Users\luqasz\source\repos\our_lucky_numbers\our_lucky_numbers\bin\Debug\our_lucky_numbers.exe.config
+C:\Users\luqasz\source\repos\our_lucky_numbers\our_lucky_numbers\bin\Debug\our_lucky_numbers.exe
+C:\Users\luqasz\source\repos\our_lucky_numbers\our_lucky_numbers\bin\Debug\our_lucky_numbers.pdb
+C:\Users\luqasz\source\repos\our_lucky_numbers\our_lucky_numbers\obj\Debug\our_lucky_numbers.csproj.AssemblyReference.cache
+C:\Users\luqasz\source\repos\our_lucky_numbers\our_lucky_numbers\obj\Debug\our_lucky_numbers.csproj.CoreCompileInputs.cache
+C:\Users\luqasz\source\repos\our_lucky_numbers\our_lucky_numbers\obj\Debug\our_lucky_numbers.exe
+C:\Users\luqasz\source\repos\our_lucky_numbers\our_lucky_numbers\obj\Debug\our_lucky_numbers.pdb
