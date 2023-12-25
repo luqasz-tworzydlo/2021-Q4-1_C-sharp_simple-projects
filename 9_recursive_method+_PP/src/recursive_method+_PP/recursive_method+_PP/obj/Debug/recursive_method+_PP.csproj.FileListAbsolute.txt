@@ -1,0 +1,7 @@
+C:\Users\luqasz\source\repos\recursive_method+_PP\recursive_method+_PP\bin\Debug\recursive_method+_PP.exe.config
+C:\Users\luqasz\source\repos\recursive_method+_PP\recursive_method+_PP\bin\Debug\recursive_method+_PP.exe
+C:\Users\luqasz\source\repos\recursive_method+_PP\recursive_method+_PP\bin\Debug\recursive_method+_PP.pdb
+C:\Users\luqasz\source\repos\recursive_method+_PP\recursive_method+_PP\obj\Debug\recursive_method+_PP.csproj.AssemblyReference.cache
+C:\Users\luqasz\source\repos\recursive_method+_PP\recursive_method+_PP\obj\Debug\recursive_method+_PP.csproj.CoreCompileInputs.cache
+C:\Users\luqasz\source\repos\recursive_method+_PP\recursive_method+_PP\obj\Debug\recursive_method+_PP.exe
+C:\Users\luqasz\source\repos\recursive_method+_PP\recursive_method+_PP\obj\Debug\recursive_method+_PP.pdb
