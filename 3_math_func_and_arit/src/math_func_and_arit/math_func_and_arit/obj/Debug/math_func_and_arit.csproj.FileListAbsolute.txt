@@ -1,0 +1,7 @@
+C:\Users\luqasz\source\repos\math_func_and_arit\math_func_and_arit\bin\Debug\math_func_and_arit.exe.config
+C:\Users\luqasz\source\repos\math_func_and_arit\math_func_and_arit\bin\Debug\math_func_and_arit.exe
+C:\Users\luqasz\source\repos\math_func_and_arit\math_func_and_arit\bin\Debug\math_func_and_arit.pdb
+C:\Users\luqasz\source\repos\math_func_and_arit\math_func_and_arit\obj\Debug\math_func_and_arit.csproj.AssemblyReference.cache
+C:\Users\luqasz\source\repos\math_func_and_arit\math_func_and_arit\obj\Debug\math_func_and_arit.csproj.CoreCompileInputs.cache
+C:\Users\luqasz\source\repos\math_func_and_arit\math_func_and_arit\obj\Debug\math_func_and_arit.exe
+C:\Users\luqasz\source\repos\math_func_and_arit\math_func_and_arit\obj\Debug\math_func_and_arit.pdb

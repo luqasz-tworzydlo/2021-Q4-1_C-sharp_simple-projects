@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "math_func_and_arit", "math_func_and_arit\math_func_and_arit.csproj", "{55E992C3-6510-4BC8-8CBB-0360D45BBB5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E992C3-6510-4BC8-8CBB-0360D45BBB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E992C3-6510-4BC8-8CBB-0360D45BBB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E992C3-6510-4BC8-8CBB-0360D45BBB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E992C3-6510-4BC8-8CBB-0360D45BBB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {963A15B6-D8CD-4019-9F68-772772A74BE8}
+	EndGlobalSection
+EndGlobal
