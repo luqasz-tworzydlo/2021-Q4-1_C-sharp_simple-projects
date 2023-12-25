@@ -1,0 +1,7 @@
+C:\Users\luqasz\source\repos\boolean_expressions\boolean_expressions\bin\Debug\boolean_expressions.exe.config
+C:\Users\luqasz\source\repos\boolean_expressions\boolean_expressions\bin\Debug\boolean_expressions.exe
+C:\Users\luqasz\source\repos\boolean_expressions\boolean_expressions\bin\Debug\boolean_expressions.pdb
+C:\Users\luqasz\source\repos\boolean_expressions\boolean_expressions\obj\Debug\boolean_expressions.csproj.AssemblyReference.cache
+C:\Users\luqasz\source\repos\boolean_expressions\boolean_expressions\obj\Debug\boolean_expressions.csproj.CoreCompileInputs.cache
+C:\Users\luqasz\source\repos\boolean_expressions\boolean_expressions\obj\Debug\boolean_expressions.exe
+C:\Users\luqasz\source\repos\boolean_expressions\boolean_expressions\obj\Debug\boolean_expressions.pdb
