@@ -1,0 +1,7 @@
+C:\Users\luqasz\source\repos\c_sharp_operations\c_sharp_operations\bin\Debug\c_sharp_operations.exe.config
+C:\Users\luqasz\source\repos\c_sharp_operations\c_sharp_operations\bin\Debug\c_sharp_operations.exe
+C:\Users\luqasz\source\repos\c_sharp_operations\c_sharp_operations\bin\Debug\c_sharp_operations.pdb
+C:\Users\luqasz\source\repos\c_sharp_operations\c_sharp_operations\obj\Debug\c_sharp_operations.csproj.AssemblyReference.cache
+C:\Users\luqasz\source\repos\c_sharp_operations\c_sharp_operations\obj\Debug\c_sharp_operations.csproj.CoreCompileInputs.cache
+C:\Users\luqasz\source\repos\c_sharp_operations\c_sharp_operations\obj\Debug\c_sharp_operations.exe
+C:\Users\luqasz\source\repos\c_sharp_operations\c_sharp_operations\obj\Debug\c_sharp_operations.pdb
