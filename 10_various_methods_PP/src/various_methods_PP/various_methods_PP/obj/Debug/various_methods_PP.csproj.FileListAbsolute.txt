@@ -1,0 +1,7 @@
+C:\Users\luqasz\source\repos\various_methods_PP\various_methods_PP\bin\Debug\various_methods_PP.exe.config
+C:\Users\luqasz\source\repos\various_methods_PP\various_methods_PP\bin\Debug\various_methods_PP.exe
+C:\Users\luqasz\source\repos\various_methods_PP\various_methods_PP\bin\Debug\various_methods_PP.pdb
+C:\Users\luqasz\source\repos\various_methods_PP\various_methods_PP\obj\Debug\various_methods_PP.csproj.AssemblyReference.cache
+C:\Users\luqasz\source\repos\various_methods_PP\various_methods_PP\obj\Debug\various_methods_PP.csproj.CoreCompileInputs.cache
+C:\Users\luqasz\source\repos\various_methods_PP\various_methods_PP\obj\Debug\various_methods_PP.exe
+C:\Users\luqasz\source\repos\various_methods_PP\various_methods_PP\obj\Debug\various_methods_PP.pdb
