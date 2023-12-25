@@ -1,0 +1,7 @@
+C:\Users\luqasz\source\repos\enum_class_static_PP\enum_class_static_PP\bin\Debug\enum_class_static_PP.exe.config
+C:\Users\luqasz\source\repos\enum_class_static_PP\enum_class_static_PP\bin\Debug\enum_class_static_PP.exe
+C:\Users\luqasz\source\repos\enum_class_static_PP\enum_class_static_PP\bin\Debug\enum_class_static_PP.pdb
+C:\Users\luqasz\source\repos\enum_class_static_PP\enum_class_static_PP\obj\Debug\enum_class_static_PP.csproj.AssemblyReference.cache
+C:\Users\luqasz\source\repos\enum_class_static_PP\enum_class_static_PP\obj\Debug\enum_class_static_PP.csproj.CoreCompileInputs.cache
+C:\Users\luqasz\source\repos\enum_class_static_PP\enum_class_static_PP\obj\Debug\enum_class_static_PP.exe
+C:\Users\luqasz\source\repos\enum_class_static_PP\enum_class_static_PP\obj\Debug\enum_class_static_PP.pdb
