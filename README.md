@@ -3,18 +3,19 @@
 
 /=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
 
-Introduction to C# programming.
+Introduction to C# Programming.
 
-Learning various methods, loops, conditional branching statements, etc.
+Learning various methods, loops, and conditional branching statements, among others.
 
 The following projects show how I learned the basics of programming.
+The following projects demonstrate my learning journey through the basics of programming.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-Wprowadzenie do programowania w C#.
+Wprowadzenie do Programowania w C#.
 
-Poznanie różnorodnych metod, pętli, instrukcji warunkowych itd.
+Poznanie, między innymi, różnorodnych metod, pętli, instrukcji warunkowych.
 
-Poniższe projekty pokazują etapy poznawania podstaw z programowania.
+Poniższe projekty ukazują, jak krok po kroku poznawałem podstawy programowania.
 
 /=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
